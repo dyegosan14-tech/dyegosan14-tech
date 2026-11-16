@@ -1,21 +1,19 @@
-<p align="center">
-  <img src="./assets/terminal.svg" alt="Terminal — Dyego Santos" width="100%" />
-</p>
+### 👋 Olá, eu sou o Dyego Santos
 
 Desenvolvedor de software em **Recife, PE**. Trabalho no desenvolvimento de aplicações web, portais internos, rotinas de automação e integração com sistemas corporativos (ERP/TOTVS, bancos de dados e diretórios de rede).
 
 🔗 **[Portfólio](https://dyego-portfolio-ten.vercel.app/)** · 📄 **[Currículo (PDF)](https://dyego-portfolio-ten.vercel.app/curriculo-dyego-santos-melhorado.pdf)** · 💼 **[LinkedIn](https://www.linkedin.com/in/dyego-santos-1bb26210b/)** · ✉️ **[dyegosan14@gmail.com](mailto:dyegosan14@gmail.com)**
 
----
-
-### 📊 Atividade, Linguagens & Evolução de Commits
+<p align="center">
+  <img src="./assets/snake.svg" alt="Animação do gráfico de contribuições (1.060 contribuições)" width="100%" />
+</p>
 
 <p align="center">
   <img src="./assets/activity.svg" alt="Resumo de Engenharia, Linguagens e Evolução Mensal" width="100%" />
 </p>
 
 <p align="center">
-  <img src="./assets/snake.svg" alt="Animação do gráfico de contribuições (1.060 contribuições)" width="100%" />
+  <img src="./assets/terminal.svg" alt="Terminal — Dyego Santos" width="100%" />
 </p>
 
 ---
